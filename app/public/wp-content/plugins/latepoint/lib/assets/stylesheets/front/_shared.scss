@@ -1,0 +1,135 @@
+.latepoint-w {
+  font-family: $body-font-family;
+  font-weight: $body-font-weight-normal;
+  font-size: $font-size-base;
+
+  h1, h2, h3, h4, h5, h6 {
+  	font-family: $headings-font-family;
+  	font-weight: $headings-font-weight-normal;
+  }
+
+  .latepoint-section-heading-w {
+  	display: flex;
+  	justify-content: space-between;
+  	align-items: center;
+  	border-bottom: 1px solid rgba(0,0,0,0.05);
+  	margin-bottom: 20px;
+  	padding: 10px 0px;
+  	margin-top: 20px;
+		.latepoint-section-heading {
+			margin: 0px;
+			padding: 0px;
+		}
+		.heading-extra {
+			font-weight: $body-font-weight-bold;
+			color: $color-faded;
+		}
+  }
+}
+
+
+
+.latepoint-tab-triggers {
+
+}
+
+.latepoint-tab-content {
+	display: none;
+	&.active {
+		display: block;
+	}
+}
+
+
+.order-payments-form-wrapper {
+  .total-order-payments-info {
+    margin-bottom: 30px;
+    .topi-amount {
+      font-size: $headings-font-size-xxl + 10;
+      font-weight: $headings-font-weight-black;
+      font-family: $headings-font-family;
+      color: $headings-color;
+    }
+
+    .topi-sub-info {
+      color: $color-faded;
+
+      a {
+        display: inline-flex;
+        margin-left: 5px;
+        text-decoration: none;
+        align-items: baseline;
+        gap: 5px;
+        color: $brand-primary;
+
+        span {
+          border-bottom: 1px dotted $brand-primary;
+        }
+      }
+    }
+  }
+  .topi-heading {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+	font-size: $headings-font-size-l;
+	font-weight: $headings-font-weight-black;
+	font-family: $headings-font-family;
+	color: $headings-color;
+    line-height: 1.1;
+    margin-bottom: 15px;
+	.topih-line {
+	  height: 10px;
+	  background-color: #eee;
+	  flex: 1;
+	}
+  }
+
+  .topi-transaction {
+    padding: 15px;
+    border: 1px solid #eee;
+    border-bottom-color: #aaa;
+    position: relative;
+    & + .topi-transaction {
+      margin-top: 15px;
+    }
+    .topit-amount {
+	  font-size: $headings-font-size-m;
+	  font-weight: $headings-font-weight-black;
+	  font-family: $headings-font-family;
+      color: $headings-color;
+    }
+    .topit-sub-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: $body-font-size-xs;
+      color: $color-faded;
+    }
+    .topit-transaction-status {
+      position: absolute;
+      top: 0px;
+      right: 0;
+      padding: 2px;
+      background-color: #eee;
+      font-size: $body-font-size-xxs;
+    }
+  }
+}
+
+
+  .order-summary-items-heading {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+	font-size: $headings-font-size-s;
+	font-weight: $headings-font-weight-normal;
+	font-family: $headings-font-family;
+	color: $color-faded;
+    line-height: 1.1;
+	.osih-line {
+	  height: 10px;
+	  background-color: rgba(0, 0, 0, 0.03);
+	  flex: 1;
+	}
+  }

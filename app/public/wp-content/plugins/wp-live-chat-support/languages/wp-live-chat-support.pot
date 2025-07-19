@@ -1,0 +1,113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: 3CX Live Chat\n"
+"POT-Creation-Date: 2023-01-09 14:15+0100\n"
+"PO-Revision-Date: 2022-05-17 11:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-live-chat-support.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: public/js/callus.js\n"
+
+#: admin/class-wplc-plugin-admin.php:111
+msgid "Setup your free 3CX account"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:114
+msgid "3CX Live Chat Options"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:166
+msgid "Get 3CX"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:175
+msgid "3CX Talk URL"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:184
+msgid "Enable in all pages"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:194
+msgid "Just these"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:204
+msgid "Show \"Powered By 3CX\""
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:229
+msgid ""
+"To activate Live Chat you need 3CX to be set up. You can sign up for a free "
+"3CX account with unlimited users. If you already have 3CX you can skip this "
+"step."
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:232
+msgid "GET 3CX FREE"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:233
+msgid "Live Chat & Call for Free"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:235
+msgid "Sign up with Google"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:236
+msgid "OR"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:238
+msgid "Sign up with email"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:247
+msgid ""
+"During signup you were given a 3CX Talk URL (or get it from Admin > Voice & "
+"Chat> Add Live Chat). Copy the URL here."
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:248
+#, php-format
+msgid "Example: %s"
+msgstr ""
+
+#: admin/class-wplc-plugin-settings.php:306
+#, php-format
+msgid "Invalid 3CX Talk URL: %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "3CX Live Chat"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.3cx.com/live-chat/free-wordpress-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Live chat and voice/video call for web visitors. Setup a free portal account "
+"for unlimited agents and then activate the plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "3CX"
+msgstr ""

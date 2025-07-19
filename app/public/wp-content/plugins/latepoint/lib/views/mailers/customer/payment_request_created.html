@@ -1,0 +1,16 @@
+<div style="font-size: 16px; margin-bottom: 20px; line-height: 1.6;">
+	Hi {{customer_full_name}},
+	<br>
+	<br>
+    Thank you for your order {{order_confirmation_code}}.
+	<br>
+	<br>
+	To proceed with processing your order, please complete the payment of {{payment_request_amount}} by {{payment_request_due_at}}.
+	<br>
+	<br>
+</div>
+<h4 style="margin-bottom: 10px; margin-top: 0px; font-size: 16px; font-weight: bold;">Order Summary</h4>
+<div style="margin-bottom: 20px;">{{order_summary_breakdown}}</div>
+<div style="margin-top: 25px;">
+	<a href="{{payment_request_pay_url}}" style="display: block; text-decoration: none; padding: 10px; border-radius: 6px; text-align: center; font-size: 18px; color: #fff; background-color: #1e7bff; font-weight: 700;">Make a Payment</a>
+</div>

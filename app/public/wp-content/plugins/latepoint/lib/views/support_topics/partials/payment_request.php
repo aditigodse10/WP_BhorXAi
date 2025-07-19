@@ -1,0 +1,1 @@
+<?php esc_html_e('This will trigger a "Payment Request Created" workflow. You can attach actions to this event by going to Automation -> Workflows page and creating a new workflow with event type "Payment Request Created".', 'latepoint'); ?>

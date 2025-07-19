@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-09 14:15+0100\n"
+"PO-Revision-Date: 2023-01-09 14:22+0100\n"
+"Last-Translator: Marcello Vezzelli <mv@3cx.com>\n"
+"Language-Team: Italian <https://hermes.3cx.com/projects/live-chat/wordpress-"
+"plugin/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: admin/class-wplc-plugin-admin.php:111
+msgid "Setup your free 3CX account"
+msgstr "Configura il tuo account 3CX gratuito"
+
+#: admin/class-wplc-plugin-settings.php:114
+msgid "3CX Live Chat Options"
+msgstr "Opzioni 3CX Live Chat"
+
+#: admin/class-wplc-plugin-settings.php:166
+msgid "Get 3CX"
+msgstr "Ottieni 3CX"
+
+#: admin/class-wplc-plugin-settings.php:175
+msgid "3CX Talk URL"
+msgstr "URL 3CX Talk"
+
+#: admin/class-wplc-plugin-settings.php:184
+msgid "Enable in all pages"
+msgstr "Abilita in tutte le pagine"
+
+#: admin/class-wplc-plugin-settings.php:194
+msgid "Just these"
+msgstr "Solo su queste"
+
+#: admin/class-wplc-plugin-settings.php:204
+msgid "Show \"Powered By 3CX\""
+msgstr "Mostra \"Powered By 3CX\""
+
+#: admin/class-wplc-plugin-settings.php:229
+msgid ""
+"To activate Live Chat you need 3CX to be set up. You can sign up for a free "
+"3CX account with unlimited users. If you already have 3CX you can skip this "
+"step."
+msgstr ""
+"Per attivare Live Chat hai bisogno di una istanza 3CX. Puoi creare un "
+"account 3CX con utenti illimitati gratuitamente. Se possiedi già 3CX, puoi "
+"saltare questo passaggio."
+
+#: admin/class-wplc-plugin-settings.php:232
+msgid "GET 3CX FREE"
+msgstr "OTTIENI 3CX GRATIS"
+
+#: admin/class-wplc-plugin-settings.php:233
+msgid "Live Chat & Call for Free"
+msgstr "Chiamate e chat gratuite"
+
+#: admin/class-wplc-plugin-settings.php:235
+msgid "Sign up with Google"
+msgstr "Iscriviti con Google"
+
+#: admin/class-wplc-plugin-settings.php:236
+msgid "OR"
+msgstr "OPPURE"
+
+#: admin/class-wplc-plugin-settings.php:238
+msgid "Sign up with email"
+msgstr "Iscriviti con l'email"
+
+#: admin/class-wplc-plugin-settings.php:247
+msgid ""
+"During signup you were given a 3CX Talk URL (or get it from Admin > Voice & "
+"Chat> Add Live Chat). Copy the URL here."
+msgstr ""
+"Durante l'iscrizione ti è stato fornito un URL 3CX Talk (oppure ottienilo da "
+"Admin > Voce & Chat > Aggiungi Live Chat). Copia l'URL qui."
+
+#: admin/class-wplc-plugin-settings.php:248
+#, php-format
+msgid "Example: %s"
+msgstr "Esempio: %s"
+
+#: admin/class-wplc-plugin-settings.php:306
+#, php-format
+msgid "Invalid 3CX Talk URL: %s"
+msgstr "URL 3CX Talk non valido: %s"
+
+#. Plugin Name of the plugin/theme
+msgid "3CX Live Chat"
+msgstr "3CX Live Chat"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.3cx.com/live-chat/free-wordpress-plugin/"
+msgstr "https://www.3cx.com/live-chat/free-wordpress-plugin/"
+
+#. Description of the plugin/theme
+msgid ""
+"Live chat and voice/video call for web visitors. Setup a free portal account "
+"for unlimited agents and then activate the plugin."
+msgstr ""
+"Live chat e chiamate audio/video per i visitatori web. Ottieni un account "
+"gratuito per utenti illimitati e poi attiva il plugin."
+
+#. Author of the plugin/theme
+msgid "3CX"
+msgstr "3CX"
+
+#~ msgid "3CX StartUP account"
+#~ msgstr "Account 3CX StartUP"
+
+#~ msgid "Follow the steps in the wizard."
+#~ msgstr "Segui i passaggi nella configurazione guidata."
+
+#~ msgid ""
+#~ "Take note of the 3CX Talk URL that you will be given during the live chat "
+#~ "step."
+#~ msgstr ""
+#~ "Prendi nota dell'URL 3CX Talk che ti sarà fornito durante il passaggio "
+#~ "\"Live Chat\"."
+
+#, php-format
+#~ msgid "Read our %s."
+#~ msgstr "Leggi la nostra %s."
+
+#~ msgid "Getting Started Guide"
+#~ msgstr "Guida introduttiva"
+
+#, fuzzy
+#~ msgid "Choose your 3CX type:  Hosted > StartUP."
+#~ msgstr "Seleziona la tipologia 3CX: Hosted > StartUP."
+
+#~ msgid ""
+#~ "In order to activate your live chat you need to sign up with 3CX StartUP "
+#~ "to get your web portal and apps to answer live chats."
+#~ msgstr ""
+#~ "Per poter attivare la tua Live Chat, devi accedere con 3CX StartUP per "
+#~ "visualizzare il tuo portale web e le app per rispondere ai messaggi di "
+#~ "chat."
+
+#~ msgid ""
+#~ "Enter the URL given to you in the Live Chat Step in the StartUP "
+#~ "Configuration Wizard"
+#~ msgstr ""
+#~ "Inserisci l'URL fornito al passaggio \"Live Chat\" durante la procedura "
+#~ "di configurazione StartUP"
+
+#~ msgid ""
+#~ "The easiest to use website live chat plugin. Let your visitors chat with "
+#~ "you and increase sales conversion rates with 3CX Live Chat."
+#~ msgstr ""
+#~ "Il plugin di live chat più facile da usare per il tuo sito web. Consenti "
+#~ "ai tuoi visitatori di chattare con te e aumentare i tassi di conversione "
+#~ "delle vendite con 3CX Live Chat."
+
+#~ msgid "Choose your 3CX type: Hosted > StartUP."
+#~ msgstr "Seleziona la tipologia 3CX: Hosted > StartUP."

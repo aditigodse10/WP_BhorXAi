@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-05-27 12:28+0300\n"
+"Last-Translator: Kristel Aszody <kas@3cx.com>\n"
+"Language-Team: French <https://hermes.3cx.com/projects/live-chat/wordpress-"
+"plugin/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: admin/class-wplc-plugin-settings.php:114
+msgid "3CX Live Chat Options"
+msgstr "Options du Live Chat 3CX"
+
+#: admin/class-wplc-plugin-settings.php:166
+msgid "Get 3CX StartUp"
+msgstr "Obtenir le 3CX StartUp"
+
+#: admin/class-wplc-plugin-settings.php:175
+msgid "3CX Talk URL"
+msgstr "URL du 3CX Talk"
+
+#: admin/class-wplc-plugin-settings.php:184
+msgid "Enable in all pages"
+msgstr "Activer sur toutes les pages"
+
+#: admin/class-wplc-plugin-settings.php:194
+msgid "Just these"
+msgstr "Juste celles-ci"
+
+#: admin/class-wplc-plugin-settings.php:204
+msgid "Show \"Powered By 3CX\""
+msgstr "Afficher \"Powered By 3CX\""
+
+#: admin/class-wplc-plugin-settings.php:229
+#, php-format
+msgid "Get your free %s"
+msgstr "Obtenez votre %s gratuit"
+
+#: admin/class-wplc-plugin-settings.php:229
+msgid "3CX StartUP account"
+msgstr "Compte 3CX StartUP"
+
+#: admin/class-wplc-plugin-settings.php:230
+msgid "Choose your 3CX type: Hosted > StartUP."
+msgstr "Choisissez votre type de 3CX : Hébergé > StartUP."
+
+#: admin/class-wplc-plugin-settings.php:231
+msgid "Follow the steps in the wizard."
+msgstr "Suivez les étapes de l'assistant."
+
+#: admin/class-wplc-plugin-settings.php:232
+msgid ""
+"Take note of the 3CX Talk URL that you will be given during the live chat "
+"step."
+msgstr ""
+"Prenez note de l'URL du 3CX Talk qui vous sera donnée lors de l'étape du "
+"Live Chat."
+
+#: admin/class-wplc-plugin-settings.php:233
+#, php-format
+msgid "Read our %s."
+msgstr "Lisez notre %s."
+
+#: admin/class-wplc-plugin-settings.php:233
+msgid "Getting Started Guide"
+msgstr "Guide de démarrage"
+
+#: admin/class-wplc-plugin-settings.php:240
+#, php-format
+msgid "Example: %s"
+msgstr "Exemple : %s"
+
+#: admin/class-wplc-plugin-settings.php:299
+#, php-format
+msgid "Invalid 3CX Talk URL: %s"
+msgstr "URL 3CX Talk non valide : %s"
+
+#. Plugin Name of the plugin/theme
+msgid "3CX Live Chat"
+msgstr "Live Chat 3CX"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.3cx.com/live-chat/free-wordpress-plugin/"
+msgstr "https://www.3cx.fr/live-chat/plugin-wordpress-gratuit/"
+
+#. Author of the plugin/theme
+msgid "3CX"
+msgstr "3CX"
+
+#: admin/class-wplc-plugin-settings.php:228
+msgid ""
+"In order to activate your live chat you need to sign up with 3CX StartUP to "
+"get your web portal and apps to answer live chats."
+msgstr ""
+"Afin d'activer votre Live Chat, vous devez vous inscrire au 3CX StartUP pour "
+"obtenir votre portail web et vos applications afin de répondre aux messages "
+"chats."
+
+#: admin/class-wplc-plugin-settings.php:241
+msgid ""
+"Enter the URL given to you in the Live Chat Step in the StartUP "
+"Configuration Wizard"
+msgstr ""
+"Entrez l'URL qui vous a été donnée dans l'étape Live Chat de l'assistant de "
+"configuration StartUP"
+
+#. Description of the plugin/theme
+msgid ""
+"The easiest to use website live chat plugin. Let your visitors chat with you "
+"and increase sales conversion rates with 3CX Live Chat."
+msgstr ""
+"Le plugin de Live Chat sur site web le plus facile à utiliser. Permettez à "
+"vos visiteurs discuter avec vous et augmentez les taux de conversion de vos "
+"ventes avec le Live Chat 3CX."

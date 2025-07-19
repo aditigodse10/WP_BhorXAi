@@ -1,0 +1,405 @@
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_recurrences] => Created table wp_latepoint_recurrences
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_steps] => Created table wp_latepoint_steps
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_carts] => Created table wp_latepoint_carts
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_cart_items] => Created table wp_latepoint_cart_items
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_orders] => Created table wp_latepoint_orders
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_order_items] => Created table wp_latepoint_order_items
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_order_intents] => Created table wp_latepoint_order_intents
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_order_invoices] => Created table wp_latepoint_order_invoices
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_payment_requests] => Created table wp_latepoint_payment_requests
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_process_jobs] => Created table wp_latepoint_process_jobs
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_sessions] => Created table wp_latepoint_sessions
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_bookings] => Created table wp_latepoint_bookings
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_blocked_periods] => Created table wp_latepoint_blocked_periods
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_cart_meta] => Created table wp_latepoint_cart_meta
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_order_meta] => Created table wp_latepoint_order_meta
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_booking_meta] => Created table wp_latepoint_booking_meta
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_processes] => Created table wp_latepoint_processes
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_service_meta] => Created table wp_latepoint_service_meta
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_customer_meta] => Created table wp_latepoint_customer_meta
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_agent_meta] => Created table wp_latepoint_agent_meta
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_bundle_meta] => Created table wp_latepoint_bundle_meta
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_settings] => Created table wp_latepoint_settings
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_locations] => Created table wp_latepoint_locations
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_location_categories] => Created table wp_latepoint_location_categories
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_bundles] => Created table wp_latepoint_bundles
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_bundles_services] => Created table wp_latepoint_bundles_services
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_services] => Created table wp_latepoint_services
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_agents] => Created table wp_latepoint_agents
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_step_settings] => Created table wp_latepoint_step_settings
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_customers] => Created table wp_latepoint_customers
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_service_categories] => Created table wp_latepoint_service_categories
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_custom_prices] => Created table wp_latepoint_custom_prices
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_work_periods] => Created table wp_latepoint_work_periods
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_agents_services] => Created table wp_latepoint_agents_services
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_activities] => Created table wp_latepoint_activities
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_transaction_intents] => Created table wp_latepoint_transaction_intents
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_transactions] => Created table wp_latepoint_transactions
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_transaction_refunds] => Created table wp_latepoint_transaction_refunds
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_steps.use_custom_image] => Changed type of wp_latepoint_steps.use_custom_image from tinyint(1) to boolean
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_services.is_price_variable] => Changed type of wp_latepoint_services.is_price_variable from tinyint(1) to boolean
+    [wp_latepoint_services.is_deposit_required] => Changed type of wp_latepoint_services.is_deposit_required from tinyint(1) to boolean
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_agents.custom_hours] => Changed type of wp_latepoint_agents.custom_hours from tinyint(1) to boolean
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_customers.is_guest] => Changed type of wp_latepoint_customers.is_guest from tinyint(1) to boolean
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_custom_prices.is_price_variable] => Changed type of wp_latepoint_custom_prices.is_price_variable from tinyint(1) to boolean
+    [wp_latepoint_custom_prices.is_deposit_required] => Changed type of wp_latepoint_custom_prices.is_deposit_required from tinyint(1) to boolean
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+    [wp_latepoint_agents_services.is_custom_hours] => Changed type of wp_latepoint_agents_services.is_custom_hours from tinyint(1) to BOOLEAN
+    [wp_latepoint_agents_services.is_custom_price] => Changed type of wp_latepoint_agents_services.is_custom_price from tinyint(1) to BOOLEAN
+    [wp_latepoint_agents_services.is_custom_duration] => Changed type of wp_latepoint_agents_services.is_custom_duration from tinyint(1) to BOOLEAN
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:10 UTC] Array
+(
+)
+
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "alt" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/importer/batch/st-replace-blocks-images.php on line 467
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key 1 in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1694
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1693
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1693
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1697
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "blockName" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1702
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key 2 in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1694
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1693
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1693
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1697
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "blockName" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1702
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key 3 in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1694
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1693
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1693
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1697
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "blockName" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1702
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key 4 in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1694
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1693
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1693
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1697
+[18-Jul-2025 16:50:40 UTC] PHP Warning:  Undefined array key "blockName" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-includes/blocks.php on line 1702
+[18-Jul-2025 16:51:20 UTC] Invalid product slug provided "wp-live-chat-support", does not match bsf_product_slugs
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "wordpress" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "review-admin-email" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "setup-permalinks" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "review-seo-visibility" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "astra-theme" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "add-logo-and-site-icon" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "customize-header" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "customize-footer" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "spectra" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "sureforms" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "latepoint" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "enable-notifications" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175
+[18-Jul-2025 16:51:56 UTC] PHP Warning:  Undefined array key "connect-payment-gateway" in /Users/jagdishgodse/Local Sites/project-1/app/public/wp-content/plugins/astra-sites/inc/lib/getting-started/classes/class-gs-api.php on line 175

@@ -1,0 +1,163 @@
+/*!
+ * Copyright (c) 2023 LatePoint LLC. All rights reserved.
+ */
+
+@media print {
+  .summary-box-wrapper + .summary-box-wrapper {
+    border-top: 2px solid #111;
+    margin-top: 30px;
+    padding-top: 30px;
+  }
+  .order-full-summary-actions {
+    display: none;
+  }
+  .order-summary-items-heading {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 22px;
+  }
+  .full-summary-order-info-elements {
+    margin-top: 20px;
+  }
+  .full-summary-wrapper .order-item-bundle-info-wrapper .bundle-icon, .confirmation-info-w .order-item-bundle-info-wrapper .bundle-icon {
+    display: none;
+  }
+  .full-summary-wrapper .schedule-bundle-booking-btn-wrapper, .confirmation-info-w .schedule-bundle-booking-btn-wrapper {
+    display: none;
+  }
+  .qr-code-booking-info, .qr-code-vevent {
+    img {
+      width: 200px;
+      height: auto;
+    }
+  }
+  .fsoi-element {
+    margin-top: 5px;
+  }
+  .part-of-bundle-message {
+    display: none;
+  }
+  .qr-code-on-full-summary {
+  }
+  .summary-box .summary-box-content .os-avatar-w,
+  .summary-box .summary-box-content .os-location-image{
+    display: none;
+  }
+  .summary-box .summary-box-content .sbc-content-i {
+    margin-left: 0;
+  }
+  .summary-box .sbc-link-item {
+    display: none;
+  }
+  .summary-box .sbc-big-item {
+    font-size: 22px;
+  }
+  .summary-box .sbc-highlighted-item {
+    font-size: 18px;
+    color: #000;
+  }
+  .full-summary-wrapper .summary-box-heading, .confirmation-info-w .summary-box-heading {
+    margin-bottom: 5px;
+  }
+  .full-summary-wrapper .summary-box .sbc-main-item, .confirmation-info-w .summary-box .sbc-main-item {
+    font-size: 18px;
+  }
+  .latepoint-w .summary-boxes-columns .summary-box {
+    margin-bottom: 20px;
+  }
+  .summary-box .sbc-main-item a {
+    display: none;
+  }
+  .booking-full-summary-actions {
+    display: none;
+  }
+  .summary-attributes {
+    padding: 0;
+    background-color: transparent;
+  }
+  .summary-box.main-box .summary-box-booking-date-box,
+  .summary-box.main-box .qr-show-trigger {
+    display: none;
+  }
+
+  .booking-status-info-wrapper {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #111;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    .booking-status-label, .booking-confirmation {
+      font-size: 22px;
+    }
+    .booking-status-icon {
+      display: none;
+    }
+    .booking-confirmation {
+      margin-left: 0;
+    }
+  }
+  .fsoi-main-wrapper {
+    display: none;
+  }
+  // PRINT BOOKING CONFIRMATION
+  .latepoint-print-summary-w {
+    padding: 40px;
+    .full-summary-head-info {
+      position: relative;
+    }
+    .qr-code-on-full-summary {
+      display: flex;
+      gap: 50px;
+      margin-bottom: 20px;
+      .qr-show-trigger {
+        display: none;
+      }
+
+      .qr-code-booking-info,
+      .qr-code-vevent {
+        flex: 1;
+        text-align: center;
+        border: 2px dotted #111;
+        padding: 30px;
+        img {
+          width: 200px;
+          height: 200px;
+          display: block;
+          margin: 0px auto 10px;
+        }
+        .qr-code-label {
+          text-align: center;
+          font-size: 14px;
+        }
+      }
+    }
+    .payment-summary-info {
+      .full-summary-info-w {
+        margin-top: 0px;
+      }
+    }
+    .full-summary-header {
+      margin-bottom: 0px;
+      margin-top: 0px;
+    }
+    .full-summary-number {
+      color: $color-faded;
+      padding-top: 0px;
+      margin-bottom: 8px;
+      font-size: floor($font-size-base * 0.9);
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      font-weight: $body-font-weight-bold;
+      strong {
+        font-size: floor($font-size-base * 2.6);
+        letter-spacing: normal;
+        color: $headings-color;
+        display: block;
+        line-height: 1.1;
+      }
+    }
+  }
+}
+
+

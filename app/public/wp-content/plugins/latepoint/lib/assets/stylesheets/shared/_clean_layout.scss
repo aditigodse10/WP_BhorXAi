@@ -1,0 +1,181 @@
+.clean-layout-content-wrapper {
+  max-width: 550px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1), 0 8px 35px -3px rgba(0,0,0,0.1);
+  background-color: #fff;
+  margin: 0px auto;
+  position: relative;
+  .clean-layout-content-header {
+    padding: 20px 40px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    h2 {
+      margin: 0;
+    }
+  }
+  .clean-layout-content-body {
+    padding: 40px;
+    position: relative;
+    &.is-dotted {
+      padding-top: 60px;
+      &:before {
+        content: "";
+        height: 34px;
+        background-image: radial-gradient(#ccc 1px, transparent 0);
+        background-size: 10px 10px;
+        background-color: #fff;
+        display: block;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        right: 5px;
+      }
+    }
+  }
+  .clean-layout-content-footer {
+    padding: 20px 40px;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    display: flex;
+    gap: 10px;
+
+
+    .latepoint-btn-position-end {
+      margin-left: auto;
+    }
+    .latepoint-btn-position-start {
+      margin-right: auto;
+    }
+  }
+
+  &.os-loading {
+    .clean-layout-content-body {
+      min-height: 80px;
+      > div {
+        visibility: hidden;
+      }
+      &:before {
+        @include loading-circle($brand-primary, 20px);
+      }
+    }
+  }
+
+}
+
+
+.invoice-payment-summary-wrapper {
+
+  .lp-payment-charge-amount {
+    background-color: #fbf6e1;
+    color: #877865;
+    margin-bottom: 20px;
+    padding: 15px;
+    text-align: center;
+    strong {
+      color: #000;
+    }
+  }
+  .full-summary-info-w {
+    padding-top: 40px;
+  }
+  .invoice-due-amount-wrapper {
+    display: flex;
+    align-items: center;
+    .invoice-status-label {
+      font-size: 32px;
+      font-weight: $body-font-weight-bold;
+      text-transform: uppercase;
+      color: #000;
+      padding: 2px 10px;
+      letter-spacing: 3px;
+      line-height: 1.2;
+      opacity: 0.8;
+      border-radius: 10px;
+      &.invoice-status-label-paid {
+        color: #67bf08;
+        border: 3px solid #67bf08;
+      }
+      &.invoice-status-label-void {
+        color: #bf0808;
+        border: 3px solid #bf0808;
+      }
+    }
+    .invoice-due-amount-inner {
+      flex: 1;
+    }
+    .invoice-make-payment-btn {
+      margin-left: auto;
+      font-size: $headings-font-size-m;
+      font-weight: $headings-font-weight-black;
+      font-family: $headings-font-family;
+      padding: 10px 18px;
+      i {
+
+      }
+    }
+    .id-amount {
+      font-size: $headings-font-size-xxl + 10;
+      font-weight: $headings-font-weight-black;
+      font-family: $headings-font-family;
+      color: $headings-color;
+    }
+    .id-sub-info {
+      color: $color-faded;
+      a {
+        display: inline-flex;
+        margin-left: 5px;
+        text-decoration: none;
+        align-items: center;
+        gap: 5px;
+        color: $brand-primary;
+        span {
+          border-bottom: 1px dotted $brand-primary;
+        }
+      }
+    }
+  }
+}
+
+.latepoint-w {
+  .payment-confirmation-wrapper {
+      text-align: center;
+
+      .icon-w {
+        margin-bottom: 20px;
+
+        i {
+          background: #d1ffdd;
+          padding: 15px;
+          border-radius: 40px;
+          color: #18a35b;
+          font-size: 28px;
+          display: inline-block;
+        }
+      }
+
+      h2 {
+        margin: 0 0 20px 0;
+        font-size: floor($headings-font-size * 1.3);
+        color: $headings-color;
+      }
+
+      .payment-info {
+        border: 1px solid $border-color-light;
+        border-radius: 6px;
+
+        .payment-info-row {
+          display: flex;
+          justify-content: space-between;
+          border-bottom: 1px solid $border-color-light;
+          padding: 10px 15px;
+          &:last-child {
+            border-bottom: none;
+          }
+        }
+        .info-label {
+          color: $color-faded;
+        }
+
+        .info-value {
+          font-weight: $body-font-weight-bold;
+        }
+      }
+    }
+}
