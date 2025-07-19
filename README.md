@@ -64,25 +64,11 @@ WP_BhorXAi/
 
 ## ⚙️ How to Run Locally
 
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/aditigodse10/WP_BhorXAi.git
-   ```
-
-2. Move to the directory:
-
-   ```bash
-   cd WP_BhorXAi
-   ```
-
-3. Start a local server (e.g., using MAMP, XAMPP, or LocalWP).
-
-4. Navigate to:
-
    ```
    http://project-1.local
    ```
+It may or may not work due to some client hosting barriers, please wait for full hosting updages to clone it.
+
 ## ✨ Developed By
 
 **Aditi Jagdish Godse**
