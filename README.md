@@ -65,7 +65,7 @@ WP_BhorXAi/
 ## ⚙️ How to Run Locally
 
    ```
-   http://project-1.local
+   http://localhost:10003/
    ```
 It may or may not work due to some client hosting barriers, please wait for full hosting updages to clone it.
 
