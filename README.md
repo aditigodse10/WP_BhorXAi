@@ -10,6 +10,7 @@ Welcome to the WordPress-based website for **BhorXAi**, a forward-thinking AI so
 ## 🌐 Live Preview (Localhost)
 
 To view the website locally: 🎥 [Watch Demo Video](https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing)
+- [ngrox site](https://fad5e7687740.ngrok-free.app)
 
 ---
 
