@@ -45,11 +45,11 @@ BhorXAi empowers modern businesses through AI-powered solutions that streamline 
 
 ```
 WP_BhorXAi/
-├── app/        # Core WordPress files and themes
-├── conf/       # Configuration files
-├── logs/       # Log files for tracking runtime/debugging
-├── .DS_Store   # System file (can be ignored)
-└── README.md   # Project overview and documentation
+├── app/       
+├── conf/
+├── logs/       
+├── .DS_Store   
+└── README.md  
 ```
 
 ---
