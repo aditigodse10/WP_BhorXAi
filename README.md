@@ -1,76 +1,85 @@
-# BhorXAi – AI-Driven Business Transformation
+# 📌 BhorXAi — AI-Driven Business Transformation (WordPress Site)
 
-Welcome to the WordPress-based website for **BhorXAi**, a forward-thinking AI solutions company committed to transforming businesses with intelligent automation, tailored strategies, and innovative technologies.
-
-![BhorXAi Banner](<img width="1470" height="956" alt="Screenshot 2025-07-19 at 1 13 16 PM" src="https://github.com/user-attachments/assets/94990717-1270-4e99-90fa-8f9a9713d3e8" />
-) <!-- Optional: Insert screenshot image -->
+Welcome to **BhorXAi**, a WordPress-based business website built to demonstrate practical WordPress theme configuration, custom styling, and site deployment skills.
 
 ---
 
-## 🌐 Live Preview (Localhost)
+## 🔗 Live Demo
 
-To view the website locally: 🎥 [Watch Demo Video](https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing)
-- [ngrox site](https://fad5e7687740.ngrok-free.app)
-
----
-
-## 🧠 About BhorXAi
-
-> **Where Brands Flow Towards Success!**
-
-BhorXAi empowers modern businesses through AI-powered solutions that streamline operations, enhance customer experience, and unlock untapped potential.
-
-### 🔹 Services Highlighted:
-
-* **Tailored Solutions** – Customized AI services designed for your unique business goals.
-* **Transparent Process** – A collaborative, communicative AI integration strategy.
-* **Innovative Team** – Passionate experts driving next-gen AI transformation.
+👉 **Video Walkthrough:** [Watch the full site demo here](https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing)
+👉 **Temporary Live Preview:** [Ngrok Link](https://fad5e7687740.ngrok-free.app) *(May expire — see video for stable demo)*
 
 ---
 
-## 🚀 Features
+## 🧩 About This Project
 
-* ✅ Elegant, responsive WordPress site
-* ✅ Business-centric content sections
-* ✅ Engaging call-to-actions with "Get Started" buttons
-* ✅ Custom styling using SCSS & JS
-* ✅ Sectioned services, hero area, and value propositions
-* ✅ Built with PHP, JS, SCSS, and custom configurations
+**BhorXAi** showcases how AI-powered solutions can transform modern businesses. This responsive WordPress site was built with a custom theme, custom styling, and basic plugin integration.
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Key Features
+
+- ✅ Custom theme setup & configuration in WordPress.
+- ✅ Business-centric sections: hero, services, value propositions.
+- ✅ Engaging CTAs with “Get Started” buttons.
+- ✅ Custom SCSS styling & JS interactivity.
+- ✅ PHP back-end integration and WP structure.
+
+---
+
+## 🗂️ Project Structure
 
 ```
-WP_BhorXAi/
-├── app/       
-├── conf/
-├── logs/       
-├── .DS_Store   
-└── README.md  
+
+WP\_BhorXAi/
+├── app/         
+├── conf/        
+├── logs/        
+├── README.md    
+
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 Tech Stack
 
-| Language    | Usage                        |
-| ----------- | ---------------------------- |
-| PHP (70.8%) | WordPress backend            |
-| JavaScript  | Interactive UI elements      |
-| CSS / SCSS  | Styling, layouts, animations |
+| Tech | Purpose |
+|------|---------|
+| **PHP** | WordPress backend |
+| **JavaScript** | Interactive UI |
+| **SCSS** | Styling & layouts |
+| **Ngrok** | Temporary live preview |
+| **Video Demo** | Proof of full build |
 
 ---
 
-## ⚙️ How to Run Locally
+## 🗝️ Why This Matters
 
-   ```
-   http://localhost:10003/
-   ```
-It may or may not work due to some client hosting barriers, please wait for full hosting updages to clone it.
+- 📌 Shows practical WordPress theme dev flow.
+- 📌 Proves local WP setup, custom styling, plugin config.
+- 📌 Built to match open-source contribution practices — future updates planned.
+
+---
+
+## 🚀 Next Steps
+
+- Upload starter theme/plugin to [WordPress.org profile](https://profiles.wordpress.org/aditigodse10/) *(in progress)*  
+- Expand features, fix minor bugs, improve responsiveness.
+- Plan PR to relevant community repo.
+
+---
+
+## ⚡ How To View
+
+- Watch the full video walkthrough (stable).
+- Test temporary Ngrok link if available.
+- Clone repo to run locally if needed.
+
+---
 
 ## ✨ Developed By
 
-**Aditi Jagdish Godse**
-[GitHub](https://github.com/aditigodse10) | [LinkedIn](https://linkedin.com/in/aditi-godse30)
-✉️ [aditigodseit@gmail.com](mailto:aditigodseit@gmail.com)
+**Aditi Jagdish Godse**  
+[GitHub](https://github.com/aditigodse10) | [LinkedIn](https://www.linkedin.com/in/YOUR_LINK)  
+📧 [aditigodseit@gmail.com](mailto:aditigodseit@gmail.com)  
+🪐 [WordPress.org profile](https://profiles.wordpress.org/aditigodse10/)
